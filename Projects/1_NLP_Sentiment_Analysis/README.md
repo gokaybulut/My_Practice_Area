@@ -16,4 +16,5 @@ Finally, I implemented deep learning models with Word2Vec, GloVe, FastText, Conv
 
 In short, top ten words used in positive reviews were: beautiful, good, quality, recommend, thanks, professional, smiling, glad and fast. In negative reviews top ten were: bad, expensive, never, prices, place, absolutely, money, even and wedding.
 Best average F1 score of 85% achieved by Count Vectorizer with Naïve Bayes algorithm. 
- 
+
+![final results](https://github.com/gokaybulut/My_Work/blob/master/Projects/1_NLP_Sentiment_Analysis/4_Images/Final_Results.png)
